@@ -1,0 +1,3 @@
+para não precisar ficar executando toda hora node nomeArquivo.js
+    npm install -g nodemon
+executar com nodemon nomeProjeto.js

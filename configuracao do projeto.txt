@@ -1,0 +1,6 @@
+para iniciar o package.json
+	npm init ou yarn init
+	se perguntar qual é o entry point colocar index.js
+para ficar no reload 
+	npm install -g nodemon
+	
