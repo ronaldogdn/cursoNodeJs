@@ -1,5 +1,5 @@
 {
-  "name": "primeiro-servidor-node",
+  "name": "aulas",
   "version": "1.0.0",
   "description": "Meu primeiro servidor em NodeJS do curso Udemy de NodeJS",
   "main": "index.js",
@@ -14,5 +14,8 @@
     "mongodb"
   ],
   "author": "Ronaldo Gomes do Nascimento",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6"
+  }
 }

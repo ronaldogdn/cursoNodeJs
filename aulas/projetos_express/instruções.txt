@@ -1,0 +1,11 @@
+npm init -y 
+npm install express-generator
+ou 
+npx install express-generator <nome do app>
+para criar o app: express <nome do app> --view=pug 
+depois entrar na pasta que foi criada, por exemplo cd hcode
+baixar as dependencias: npm install
+set DEBUG=hcode:* & npm start
+para usar middlewarer de terceiros:
+    ex: npm install cookie-parser
+npm i express multer body-parser --save
